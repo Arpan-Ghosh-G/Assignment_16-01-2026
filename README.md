@@ -33,6 +33,7 @@ A Flask-based web application that generates dynamic, functional forms from natu
 
 ## ▶️ Run Locally
 
-### 1. Install dependencies
+### 1. Take a new LLM API key from Openrouter and after running the code, give the API key 2 times as asked by the code in the terminal then visit the local URL
+### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
